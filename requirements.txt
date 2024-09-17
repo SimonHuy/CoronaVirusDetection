@@ -1,0 +1,5 @@
+split-folders
+matplotlib
+kaggle
+torch 
+torchvision
